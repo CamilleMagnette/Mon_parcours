@@ -1,11 +1,11 @@
 ### Hi 👋, I'm Camille
 
-I am currently student at Wild Code School for 5 month to become a data analyst.  
-I am looking for a position as a junior data analyst in a data driven company in September 2023. 
+I'm currently a student at Wild Code School for 5 months in order to become a data analyst.  
+I'm looking for a position as a junior data analyst in a data driven company in September 2023. 
 
 -	👨🏻‍💻 I will soon post the projects I will study at Wild Code School
 - 🌱 I’m currently learning usage of VSCode with Python
 - 📫 How to reach me: camille.magnette@icloud.com
--	📄 Know about my experiences, see my Notion Resume!
+-	📄 Know about my experiences, see my [Notion resume](https://brass-legal-f26.notion.site/Camille-Magnette-adc103f6f82d44ff8a01508fd2a11aa6) !
 
 
