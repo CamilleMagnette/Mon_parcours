@@ -19,8 +19,10 @@ I'm looking for a position as a junior data analyst in a data driven company in 
 
 [🚗 Cars_Analysis_using_Python](https://github.com/CamilleMagnette/Cars_Analysis_using_Python)
 
-[🏠 Houses_Sales_Data_Analysis_using_Python](https://github.com/CamilleMagnette/Houses_Sales_Data_Analysis_using_Python)
+[🏠 Houses_Sales_Seattle Data_Analysis_using_Python&Datapane](https://github.com/CamilleMagnette/Houses_Sales_Data_Analysis_using_Python)
 
 [🎼 Spotify-Data-Analysis-using-Python](https://github.com/CamilleMagnette/Spotify-Data-Analysis-using-Python)
 
 [🎥 Movies_recommendation_with_machine_learning](https://github.com/CamilleMagnette/Systeme_de_recommandation_machine_learning)
+
+[🏠 Houses_Sales_My Town Data_Analysis_using_Python&Tableau](https://github.com/CamilleMagnette/Houses_Sales_My_Town_Data_Analysis_using_Python-Tableau)
