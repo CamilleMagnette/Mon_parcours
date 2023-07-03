@@ -25,3 +25,5 @@ I will soon complete my training with an internship as a data consultant at Busi
 [🏠 Houses_Sales_My Town Data_Analysis_using_Python&Tableau](https://github.com/CamilleMagnette/Houses_Sales_My_Town_Data_Analysis_using_Python-Tableau)
 
 [💻 Salaries_Analysis_using_Python_and_PowerBI](https://github.com/CamilleMagnette/Salaries_Analysis_using_Python_and_PowerBI)
+
+[🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI](https://github.com/CamilleMagnette/Emmaus_connect)
