@@ -28,5 +28,5 @@ I will soon complete my training with an internship as a data consultant at Busi
 
 [🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI](https://github.com/CamilleMagnette/Emmaus_connect)
 
-[🍷 Wine market study with Python&PowerBI - Data Analyst Certification (dataviz part)](https://github.com/CamilleMagnette/Wine_market_study_with_Python-PowerBI/blob/main/README.md)
+[🍷 Wine_market_study_with_Python&PowerBI - Data_Analyst_Certification_(dataviz_part)](https://github.com/CamilleMagnette/Wine_market_study_with_Python-PowerBI/blob/main/README.md)
 
