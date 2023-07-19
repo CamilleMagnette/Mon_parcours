@@ -18,7 +18,7 @@ I will soon complete my training with an internship as a data consultant at Busi
 
 [🏠 Houses_Sales_Seattle Data_Analysis_using_Python&Datapane](https://github.com/CamilleMagnette/Houses_Sales_Data_Analysis_using_Python)
 
-[🎼 Spotify-Data-Analysis-using-Python](https://github.com/CamilleMagnette/Spotify-Data-Analysis-using-Python)
+[🎼 Spotify_Data_Analysis_using_Python](https://github.com/CamilleMagnette/Spotify-Data-Analysis-using-Python)
 
 [🎥 Movies_recommendation_with_machine_learning](https://github.com/CamilleMagnette/Systeme_de_recommandation_machine_learning)
 
