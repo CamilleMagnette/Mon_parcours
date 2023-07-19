@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Camille
 
-👨🏻‍💻 I'm currently a student at Wild Code School for 5 months in order to become a data analyst.  
+👨🏻‍💻 I recently completed a 5 months data analyst training to boost my career and work in data industry. 
 I will soon complete my training with an internship as a data consultant at Business & Decision (Orange Business Services SA).  
 
 - 📫 How to reach me: camille.magnette@icloud.com
@@ -27,3 +27,6 @@ I will soon complete my training with an internship as a data consultant at Busi
 [💻 Salaries_Analysis_using_Python_and_PowerBI](https://github.com/CamilleMagnette/Salaries_Analysis_using_Python_and_PowerBI)
 
 [🙏 Hackathon_Emmaus_Connect_Analysis_with_PowerBI](https://github.com/CamilleMagnette/Emmaus_connect)
+
+[🍷 Wine market study with Python&PowerBI - Data Analyst Certification (dataviz part)](https://github.com/CamilleMagnette/Wine_market_study_with_Python-PowerBI/blob/main/README.md)
+
